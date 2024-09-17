@@ -1,5 +1,4 @@
 package com.myhome.controllers;
-
 import com.myhome.MyHomeServiceApplication;
 import com.myhome.domain.User;
 import com.myhome.model.CreateUserRequest;
